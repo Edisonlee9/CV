@@ -1,5 +1,6 @@
 # Shohjahon Omonov 
 
+### itlabs programming academy
 
 
 
@@ -25,6 +26,3 @@
 
 
 
-
-
-///md=markdown
