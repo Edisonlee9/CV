@@ -9,9 +9,10 @@ i am a front end developer
 *******
 ### skills
 * HTML
-+ website
+  + website
+  + registration
 * MD
-
+  + Bio
 
 
 
