@@ -5,7 +5,7 @@
 
 
 
-i am a front end developer
+i am a frontend developer
 *******
 ### skills
 * HTML
