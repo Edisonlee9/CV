@@ -20,6 +20,11 @@
 * MD
   + Bio
 
+## Briefly About Myself:
+* I have started learning IT as long as month and i had greatful experience about coding like HTML on HTML i had learnt how to write and create website , adding images , adding vidio , adding link , and etc.
+
+    ## Courses 
+    * i don't have Courses yet
 
 
 
